@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "name": "A small shelf of useful objects",
+  "data": {
+    "shelf": [
+      {
+        "title": "Field notes",
+        "tags": ["paper", "green"]
+      },
+      {
+        "title": "Pocket tools",
+        "available": true
+      }
+    ],
+    "label/short": "A/B",
+    "~note": {
+      "": "An empty key is still a key"
+    },
+    "count": 2,
+    "archived": null
+  },
+  "pointer": "/shelf/0/tags/1",
+  "provenance": {
+    "project": "vue-json-pointer-desk",
+    "author": "CodeSculptor",
+    "marker": "JP-26E5A8D8"
+  }
+}
